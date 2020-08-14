@@ -13,7 +13,7 @@ Hopefully by the end of this personal project I can understand:
 - what the heck is NLP?
 - what SoundClassifier is and how does it work
 - how to properly code in python (shocking, ikr)
-- have a chatbot friend (questionable)
+- how to have a chatbot friend (questionable)
 - how to use libraries such as Keras and/or TensorFlow
 
 (have fun laughing at my stupidity i guess)
